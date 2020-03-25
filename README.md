@@ -6,24 +6,24 @@ Our mission is to make the management of a seasonal business smoother for a fami
 
 ## Navigations
 ### Folders
-1. [Data](https://github.com/chelseajia/mm_cpsc5910team01/tree/master/Data)
+1. [Data](https://github.com/Cuicui-github/Database-design-and-statistical-analytics/edit/master/Data)
     - sample data for each table
-2. [Dump](https://github.com/chelseajia/mm_cpsc5910team01/tree/master/Dump)
+2. [Dump](https://github.com/Cuicui-github/Database-design-and-statistical-analytics/edit/master/Dump)
     - data_dump.sql: data-only dump
     - data_str_dump.sql: data and structure dump(Fact Table not included)
     - **data_str_dump_fact_added.sql: data and structure dump(Fact Table included)**
-3. [Model](https://github.com/chelseajia/mm_cpsc5910team01/tree/master/Model)
+3. [Model](https://github.com/Cuicui-github/Database-design-and-statistical-analytics/edit/master/Model)
     - mm_cpsc5910team01.mwb: initial physical model(Fact Table not included)
     - **fact_added.mwb: final physical model(Fact Table included)**
-4. [Papers](https://github.com/chelseajia/mm_cpsc5910team01/tree/master/Papers)
+4. [Papers](https://github.com/Cuicui-github/Database-design-and-statistical-analytics/edit/master/Papers)
     - PDF submissions for Milestone 1, Milestone 2 and Milestone 3
-5. [Presentation](https://github.com/chelseajia/mm_cpsc5910team01/tree/master/Presentaion)
-6. [Tableau](https://github.com/chelseajia/mm_cpsc5910team01/tree/master/Tableau)
+5. [Presentation](https://github.com/Cuicui-github/Database-design-and-statistical-analytics/edit/master/Presentaion)
+6. [Tableau](https://github.com/Cuicui-github/Database-design-and-statistical-analytics/edit/master/Tableau)
     - Tableau packaged workbook for Milestone 3
 ### File
-1. [model_diagram.png](https://github.com/chelseajia/mm_cpsc5910team01/blob/master/model_diagram.png)
+1. [model_diagram.png](https://github.com/Cuicui-github/Database-design-and-statistical-analytics/edit/master/model_diagram.png)
     - Diagram of Final physical model
-2. [queries_stored_procedures.sql](https://github.com/chelseajia/mm_cpsc5910team01/blob/master/queries_stored_procedures.sql)
+2. [queries_stored_procedures.sql](https://github.com/Cuicui-github/Database-design-and-statistical-analytics/edit/master/queries_stored_procedures.sql)
     - Relevant SQL queries and stored procedures
 ### Tableau Public
 All tableau graphs for this project can be accessed [here](https://public.tableau.com/profile/chelseajia#!/)
